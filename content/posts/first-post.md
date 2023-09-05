@@ -1,7 +1,7 @@
 +++
 title = 'First Post'
 date = 2023-09-05T12:16:14+05:30
-draft = true
+draft = false
 +++
 
  What is in this book for me? Understandably, the reader may ask. Reading this book, one will learn how to be healthier, how to attain peace of mind, how to live without economic anxieties and more importantly, how to prepare oneself for the future. For the short-term future, medium and long-term future, how? Go on reading, the answer is in the coming pages.
