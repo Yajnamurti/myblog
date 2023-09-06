@@ -22,5 +22,6 @@ draft = false
 - surpassing the natural plane of reality or knowledge
 E.g. The soul is transcendental, it can not be seen but it can be perceived because when it is not present in a body, the body is called dead.
 
----
+## ---
+
 Of course I will also speak about things that are not "Transcendental", relate to our daily life...
