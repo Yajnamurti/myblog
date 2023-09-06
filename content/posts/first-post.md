@@ -15,7 +15,7 @@ draft = false
 - extending or lying beyond the limits of ordinary experience
 - transcending the universe or material existence
 - universally applicable or significant
-- transcendent, surpassing, or superior. · being beyond ordinary or    
+- transcendent, surpassing, or superior. · being beyond ordinary or
   common experience, thought, or belief.
 - beyond our experience of phenomena, although not beyond potential 
   knowledge
