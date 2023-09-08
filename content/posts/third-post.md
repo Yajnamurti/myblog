@@ -12,11 +12,9 @@ Cover:
 
 #### srimate bhaktivedanta-svamin iti namine
 
-
 #### namas te saraswate deve gaura-vani-pracarine
 
 #### nirvishesha-shunyavadi-pashchatya-desha-tarine
-
 
 Dear Srila Prabhupada,
 
