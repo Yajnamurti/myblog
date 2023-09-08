@@ -8,10 +8,6 @@ Cover:
     A.C. Bhaktivedanta Swami Prabhupada 
 +++
 
- image: Photos/Prabhupada.jpeg
-    alt: 'This is a post image'
-    A.C. Bhaktivedanta Swami Prabhupada 
-
 #### nama om vishnu-padaya krishna-preshthaya bhu-tale
 
 #### srimate bhaktivedanta-svamin iti namine
