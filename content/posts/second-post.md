@@ -4,11 +4,11 @@ date = 2023-09-05T12:16:56+05:30
 draft = false
 +++
 
-## Happy Janmasthami!
+## Happy Janmasthami
 
 ### Why Krishna comes to this world?
 
-#### By His Divine Grace A.C. Bhaktivedanta Swami Srila Prabhupada	
+#### By His Divine Grace A.C. Bhaktivedanta Swami Srila Prabhupada
 
 
 August 1973 at the Bhaktivedanta Manor, in the countryside near London. Several thousand guests (including the Indian High Commissioner) listen to His Divine Grace A.C. Bhaktivedanta Swami Prabhupada speak about the day Lord Krsna made His appearance on earth.
@@ -123,6 +123,3 @@ param brahmabhidhiyate
 “The mystics derive unlimited transcendental pleasures from the Absolute Truth, and therefore the Supreme Absolute Truth, the Personality of Godhead, is also known as Rama.” [Padma Purana]
 
 All the great saintly persons of India have cultivated this spiritual knowledge so nicely and fully. Formerly, people used to go to India to find out about spiritual life. Even Jesus Christ went there. And yet we are not taking advantage of it. It is not that these literatures and directions are meant only for the Indians or for the Hindus or for the brahmanas. No. They are meant for everyone, because Krsna claims, aham bija-pradah pita: “I am everyone’s father.” Therefore, He is very anxious to make us peaceful, happy. Just as an ordinary father wants to see that his son is well situated and happy, similarly Krsna wants to see every one of us well situated and happy. Therefore He comes sometimes. This is the purpose of Krsna’s advent. Thank you very much.
-
-
-
