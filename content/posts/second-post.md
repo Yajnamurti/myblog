@@ -10,7 +10,6 @@ draft = false
 
 #### By His Divine Grace A.C. Bhaktivedanta Swami Srila Prabhupada
 
-
 August 1973 at the Bhaktivedanta Manor, in the countryside near London. Several thousand guests (including the Indian High Commissioner) listen to His Divine Grace A.C. Bhaktivedanta Swami Prabhupada speak about the day Lord Krsna made His appearance on earth.
 
 Your Excellency the High Commissioner, ladies and gentlemen, I thank you very much for your coming here and participating in this ceremony -Janmastami, the advent of Krsna. In the Bhagavad-gita [4.9] Krsna says,
