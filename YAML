@@ -1,1 +1,2 @@
 make install vscode-client
+code ${./bin/pulumi-lsp-client-*.vsix} 
